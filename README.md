@@ -2,5 +2,5 @@
 
 Completed Labs for Ryan Curtis (rec284)
 
-1. [John Q's Lab 1](//github.com/johnqstudent/idd-fa18-lab1)
-2. [John Q's Lab 2](//github.com/johnqstudent/idd-fa18-lab2)
+1. [Ryan Curtis's Lab 1](//github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-01)
+
