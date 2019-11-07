@@ -9,3 +9,5 @@ Completed Labs for Ryan Curtis (rec284)
 5. [Ryan Curtis's Lab 5](https://github.com/rec285/IDD-Fa19-Lab5)
 6. [Ryan Curtis's Lab 6](https://github.com/rec285/IDD-Fa19-Lab6)
 7. [Ryan Curtis's Lab 7](https://github.com/rec285/IDD-Fa19-Lab7)
+
+[Ryan Curtis & Alexander Popeil Final Project](https://github.com/rec285/IDD_Final_Project)
